@@ -15,7 +15,7 @@ These one-color solutions will give you the flexibility to use them on the backg
 [Spike Bachman](https://spike.bachman.in)
 
 ## Visual Index
-(interface-icons/interface-icons-v2.3.17-index.png)
+![Icon visual index](https://github.com/spikebachman/interface-icons/blob/master/interface-icons-v2.3.17-index.png?raw=true)
 
 ## License
 
